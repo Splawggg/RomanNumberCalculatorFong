@@ -1,0 +1,44 @@
+<h2>Römische Zahlen addieren</h2>
+
+<form #form="ngForm" (ngSubmit)="add()">
+  <label for="a">Erste Zahl</label>
+  <input id="a"
+         name="a"
+         [(ngModel)]="a"
+         #inputA="ngModel"
+         romanValidator
+         required />
+
+  @if (inputA.invalid && (inputA.touched || inputA.dirty)) {
+  <div class="alert alert-danger">
+    Ungültige römische Zahl!
+  </div>
+  }
+
+  <label for="b">Zweite Zahl</label>
+  <input id="b"
+         name="b"
+         [(ngModel)]="b"
+         #inputB="ngModel"
+         romanValidator
+         required />
+
+  @if (inputB.invalid && (inputB.touched || inputB.dirty)) {
+  <div class="alert alert-danger">
+    Ungültige römische Zahl!
+  </div>
+  }
+
+  <button type="submit"
+          [disabled]="form.invalid || form.pending || loading">
+    Add ...
+  </button>
+</form>
+
+@if (result !== null) {
+<h3>Ergebnis: {{ result }}</h3>
+}
+
+@if (error) {
+<div class="alert alert-danger">{{ error }}</div>
+}

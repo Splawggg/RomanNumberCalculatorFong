@@ -1,0 +1,45 @@
+<h2>Römische Zahlen dividieren</h2>
+
+<form #form="ngForm" (ngSubmit)="divide()">
+  <label for="dividend">Dividend</label>
+  <input id="dividend"
+         name="dividend"
+         [(ngModel)]="dividend"
+         #inputA="ngModel"
+         romanValidator
+         required />
+
+  @if (inputA.invalid && (inputA.touched || inputA.dirty)) {
+  <div class="alert alert-danger">
+    Ungültige römische Zahl!
+  </div>
+  }
+
+  <label for="divisor">Divisor</label>
+  <input id="divisor"
+         name="divisor"
+         [(ngModel)]="divisor"
+         #inputB="ngModel"
+         romanValidator
+         required />
+
+  @if (inputB.invalid && (inputB.touched || inputB.dirty)) {
+  <div class="alert alert-danger">
+    Ungültige römische Zahl!
+  </div>
+  }
+
+  <button type="submit"
+          [disabled]="form.invalid || form.pending || loading">
+    Divide ...
+  </button>
+</form>
+
+@if (result !== null) {
+<h3>Quotient: {{ result.quotient }}</h3>
+<h3>Rest: {{ result.remainder }}</h3>
+}
+
+@if (error) {
+<div class="alert alert-danger">{{ error }}</div>
+}

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\Roman\\RomanNumerals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\Roman\\RomanNumerals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\Roman\\IRomanNumerals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\Roman\\IRomanNumerals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-20T14:40:12.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RomanNumerals.cs",
+              "DocumentMoniker": "C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\Roman\\RomanNumerals.cs",
+              "RelativeDocumentMoniker": "Backend\\Roman\\RomanNumerals.cs",
+              "ToolTip": "C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\Roman\\RomanNumerals.cs",
+              "RelativeToolTip": "Backend\\Roman\\RomanNumerals.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:20:52.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRomanNumerals.cs",
+              "DocumentMoniker": "C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\Roman\\IRomanNumerals.cs",
+              "RelativeDocumentMoniker": "Backend\\Roman\\IRomanNumerals.cs",
+              "ToolTip": "C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\Roman\\IRomanNumerals.cs",
+              "RelativeToolTip": "Backend\\Roman\\IRomanNumerals.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:20:04.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:19:41.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

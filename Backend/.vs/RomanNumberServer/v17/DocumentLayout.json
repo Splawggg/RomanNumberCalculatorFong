@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AC328-AD49-A8FA-ECCE-308FC8FDB515}|RomanNumberServer.csproj|c:\\users\\ekis\\documents\\emily\\schule\\7_8.semester\\pos\\roman_number_calculator\\romannumbercalculator\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AC328-AD49-A8FA-ECCE-308FC8FDB515}|RomanNumberServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AC328-AD49-A8FA-ECCE-308FC8FDB515}|RomanNumberServer.csproj|c:\\users\\ekis\\documents\\emily\\schule\\7_8.semester\\pos\\roman_number_calculator\\romannumbercalculator\\backend\\roman\\romannumerals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AC328-AD49-A8FA-ECCE-308FC8FDB515}|RomanNumberServer.csproj|solutionrelative:roman\\romannumerals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RomanNumerals.cs",
+              "DocumentMoniker": "C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\Roman\\RomanNumerals.cs",
+              "RelativeDocumentMoniker": "Roman\\RomanNumerals.cs",
+              "ToolTip": "C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\Roman\\RomanNumerals.cs",
+              "RelativeToolTip": "Roman\\RomanNumerals.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwEEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:30:00.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ekis\\Documents\\emily\\schule\\7_8.Semester\\POS\\Roman_Number_Calculator\\RomanNumberCalculator\\Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:29:54.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
